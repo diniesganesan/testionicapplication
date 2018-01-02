@@ -1,0 +1,8 @@
+{
+  "name": "ionicreddit",
+  "app_id": "f5662adc",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
